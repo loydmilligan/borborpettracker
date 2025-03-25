@@ -1,0 +1,12 @@
+{
+  "milestones": [
+    {
+      "id": 1,
+      "title": "Initial Setup",
+      "description": "Set up the basic project structure and dependencies",
+      "status": "In Progress"
+    }
+  ],
+  "creation_date": "2025-03-25",
+  "last_updated": "2025-03-25 04:12:47"
+}

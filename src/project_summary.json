@@ -1,0 +1,32 @@
+{
+  "project_name": "BilBorPetTracker",
+  "project_purpose": "A comprehensive application to track health metrics, activities, and medical history for a pet named Bilbo",
+  "tech_stack_bullets": [
+    "Python",
+    "Flask",
+    "SQLite",
+    "SQLAlchemy",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Chart.js"
+  ],
+  "key_components": [
+    "Pet profile management",
+    "Weight tracking and visualization",
+    "Food intake logging with caloric analysis",
+    "Exercise activity recording",
+    "Medical history with vaccination records",
+    "Veterinary visit documentation"
+  ],
+  "target_users": [
+    "Pet owners",
+    "Caregivers",
+    "Veterinarians"
+  ],
+  "creation_date": "2025-03-25",
+  "last_updated": "2025-03-25",
+  "version": "0.1.0",
+  "maintainer": "loydmilligan",
+  "repository": "https://github.com/loydmilligan/borbor-pet-tracker"
+}
