@@ -1,5 +1,5 @@
 {
-  "project_name": "BilBorPetTracker",
+  "project_name": "BilboPetTracker",
   "project_purpose": "A comprehensive application to track health metrics, activities, and medical history for a pet named Bilbo",
   "tech_stack_bullets": [
     "Python",
@@ -28,5 +28,5 @@
   "last_updated": "2025-03-25",
   "version": "0.1.0",
   "maintainer": "loydmilligan",
-  "repository": "https://github.com/loydmilligan/borbor-pet-tracker"
+  "repository": "https://github.com/loydmilligan/borborpettracker"
 }
